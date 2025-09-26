@@ -10,7 +10,7 @@
 
 ## Tips
 - Before the battle, save your troop formation. This will save a lot of time and effort.
-- Maintain communication. If someone has scouted the target, please share the report in the alliance chat.
+- Maintain communication. For example, if someone has scouted the target, please share the report in the alliance chat.
 
 ## Hero Usage
 #### Offense
