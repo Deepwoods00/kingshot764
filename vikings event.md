@@ -34,7 +34,8 @@ Dieses Dokument liegt in dreifacher Ausfertigung in chinesischer, englischer und
      T1推荐英雄：Howard、Quinn
   2. 将自己的士兵派出支援盟友。使用chenko、yeonwoo、amane作为支援队伍的第一个英雄。当这三个英雄都派出后，只派兵，不要派英雄。（和猎熊时一致。）
   3. 优先支援在线成员，且该在线成员已有的援军少于20万。不需要继续支援援军大于20万的成员，因为你的援助很有可能得不了分。
-  4. 申请支援。
+     查看盟友的已有支援的方法：在地图上点击盟友的城镇，你可以看到一行“城镇援军：x/xxx”前面的x就代表了该盟友现有的援军数量。
+  4. 在盟友聊天频道申请支援，同时也能表明你自己在线。
   ### 战斗开始后
   1. 在第9和19波结束后，注意，结束指的是NPC已经进攻完城镇，此时可以召回援军，支援平原HQ。在第10波结束后，同上，结束指的是第10波已经攻击完HQ，可以把支援HQ的兵力召回，重新派出支援成员。
   2. 派出支援HQ的队伍请控制在3万左右，这样能让更多的成员参与进来。另请使用7级以上士兵。
@@ -74,7 +75,8 @@ The first two parts are introduction and analysis. If you want to see the execut
      T1 recommended heroes: Howard, Quinn.  
   2. Send your soldiers to reinforce allies. Use Chenko, Yeonwoo, and Amane as the first hero of the reinforcement troops. After these three heroes are sent, send only troops, not heroes. (Same as for the Bear Hunt event.)
   3. Prioritize reinforcing online members who have fewer than 200,000 reinforcements. There is no need to continue reinforcing members with more than 200,000 reinforcements, as your troops are unlikely to score points.
-  4. Request reinforcements.
+     How to check an ally's available reinforcements: Click on your ally's town on the map to see a line displaying “Town Reinforcements: x/xxx.” The number x indicates the current number of reinforcements available to that ally.
+  4. Request support in the allied chat channel, while also indicating that you are online.
   ### After the Battle Starts
   1. After waves 9 and 19 have ended (note: "ended" means the NPCs have finished attacking the towns), you can recall your reinforcements and send them to the Plains HQ. After wave 10 has ended (similarly, "ended" means wave 10 has finished attacking the HQ), you can recall the troops from the HQ and send them out to reinforce members again.
   2. Please limit the troops sent to reinforce the HQ to around 30,000. This will allow more members to participate. Also, please use tier 7 or higher soldiers.
@@ -114,7 +116,8 @@ Die ersten beiden Teile sind eine Einführung und Analyse. Wenn du direkt zum Au
     T1 empfohlene Helden: Howard, Quinn.
   2. Sende deine Soldaten zur Verstärkung von Verbündeten. Verwende Chenko, Yeonwoo und Amane als ersten Helden der Verstärkungstruppen. Nachdem diese drei Helden entsandt wurden, sende nur Truppen, keine Helden. (Gleich wie bei der Bärenjagd.)
   3. Priorisiere die Verstärkung von Online-Mitgliedern, die weniger als 200.000 Verstärkungen haben. Es ist nicht notwendig, Mitglieder mit mehr als 200.000 Verstärkungen weiter zu verstärken, da deine Truppen wahrscheinlich keine Punkte erzielen werden.
-  4. Fordere Verstärkung an.
+     Um die verfügbaren Verstärkungen eines Verbündeten anzuzeigen: Klicken Sie auf die Stadt des Verbündeten auf der Karte, wo Sie eine Zeile mit der Aufschrift „Stadtverstärkungen: x/xxx” sehen. Die Zahl x gibt die aktuelle Anzahl der Verstärkungen an, die diesem Verbündeten zur Verfügung stehen.
+  4. Die Anforderung von Unterstützung im Chat-Kanal der Verbündeten dient auch dazu, Ihren eigenen Online-Status anzuzeigen.
   ### Nach Beginn des Kampfes
   1. Nachdem die Wellen 9 und 19 beendet sind (Hinweis: „beendet“ bedeutet, dass die NPCs den Angriff auf die Städte abgeschlossen haben), kannst du deine Verstärkungen zurückrufen und zum Ebenen-HQ schicken. Nachdem Welle 10 beendet ist (ähnlich bedeutet „beendet“, dass Welle 10 den Angriff auf das HQ abgeschlossen hat), kannst du die Truppen aus dem HQ zurückrufen und sie erneut zur Verstärkung von Mitgliedern aussenden.
   2. Bitte begrenze die Truppen, die zur Verstärkung des HQs geschickt werden, auf etwa 30.000. Dies ermöglicht es mehr Mitgliedern, teilzunehmen. Bitte verwende außerdem Soldaten der Stufe 7 oder höher.
