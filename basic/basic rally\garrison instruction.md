@@ -28,10 +28,11 @@ Dieses Dokument ist eine dreisprachige Version in Chinesisch, Englisch und Deuts
   - 步兵英雄：阿瑪迪斯、赫爾加
   - 騎兵英雄：傑貝爾（目前我們沒有進攻型騎兵英雄，只能先凑合著用她。等到第三代騎兵英雄佩特拉出來後，使用佩特拉）
   - 弓兵英雄：馬琳
+  - 如果你沒有以上英雄，則可以使用：佐伊、霍華德、奎恩、琴科。
 - 確保你最好的裝備在這三個英雄身上
   
 ### 集結參與者：
-- 由於是***進攻***集結，僅可使用一下英雄作爲第一個英雄：阿瑪迪斯、琴科、妍羽、雨音。***在第一個位置不要使用其他英雄***
+- 由於是***進攻***集結，僅可使用一下英雄作爲第一個英雄：阿瑪迪斯、琴科、妍羽、雨音。***在第一個位置不要使用其他英雄。如果沒有可用英雄，則只派遣士兵，不要添加英雄。***
 - 確保你的隊伍中的士兵等級大於8級。不要使用8級以下士兵。
   
 ---
@@ -56,6 +57,7 @@ Dieses Dokument ist eine dreisprachige Version in Chinesisch, Englisch und Deuts
   - 步兵英雄：佐伊
   - 騎兵英雄：傑貝爾、希爾德
   - 弓兵英雄：索爾
+  - 如果你沒有以上英雄，則可以使用：霍華德、戈登、奎恩。
 - 確保你最好的裝備在這三個英雄身上。
   
 ### 駐守參與者：
@@ -94,10 +96,11 @@ Dieses Dokument ist eine dreisprachige Version in Chinesisch, Englisch und Deuts
   - Infantry Heroes: Amadeus, Helga
   - Cavalry Heroes: Jabel (Currently we do not have an offensive cavalry hero, so we have to make do with her. Use Petra after the third-generation cavalry hero Petra is released)
   - Marksmen Heroes: Marlin
+  - If you don't have any of the above heroes, you can use: Zoe, Howard, Quinn, or Chenko.
 - Ensure your best equipment is on these three heroes.
   
 ### Rally Participants:
-- Since this is an ***offensive*** rally, only the following heroes can be used as the first hero: Amadeus, Chenko, Yeonwoo, Amane. ***Do not use other heroes in the first position.***
+- Since this is an ***offensive*** rally, only the following heroes can be used as the first hero: Amadeus, Chenko, Yeonwoo, Amane. ***Do not use other heroes in the first position. If no heroes are available, deploy only soldiers; do not add heroes.***
 - Ensure the soldiers in your squad are above Tier 8. Do not use soldiers below Tier 8.
   
 ---
@@ -122,7 +125,12 @@ Dieses Dokument ist eine dreisprachige Version in Chinesisch, Englisch und Deuts
   - Infantry Hero: Zoe
   - Cavalry Heroes: Jabel, Hilde
   - Marksmen Hero: Saul
+  - If you don't have any of the above heroes, you can use: Howard, Gordon, Quinn.
 - Ensure your best equipment is on these three heroes.
+
+### Garrison Participants:
+- Since this is for ***defense***, only the following heroes can be used as the first hero: Saul, Gordon, Howard. ***Do not use other heroes in the first position. If no heroes are available, deploy only soldiers; do not add heroes.***
+- Ensure the soldiers in your squad are above Tier 8. Do not use soldiers below Tier 8.
 
 ---
 ---
@@ -156,10 +164,11 @@ Dieses Dokument ist eine dreisprachige Version in Chinesisch, Englisch und Deuts
   - Infanterie-Helden: Amadeus, Helga
   - Kavallerie-Helden: Jabel (Derzeit haben wir keinen offensiven Kavallerie-Helden, also müssen wir uns mit ihr begnügen. Verwende Petra, nachdem die Kavallerie-Heldin der dritten Generation, Petra, veröffentlicht wurde)
   - Schützen-Helden: Marlin
+  - Wenn Sie keinen der oben genannten Champions besitzen, können Sie folgende Champions verwenden: Zoe, Howard, Quinn oder Chenko.
 - Stelle sicher, dass deine beste Ausrüstung bei diesen drei Helden ist.
   
 ### Teilnehmer der Versammlung:
-- Da es sich um eine ***offensive*** Versammlung handelt, können nur die folgenden Helden als erster Held verwendet werden: Amadeus, Chenko, Yeonwoo, Amane. ***Verwende keine anderen Helden an der ersten Position.***
+- Da es sich um eine ***offensive*** Versammlung handelt, können nur die folgenden Helden als erster Held verwendet werden: Amadeus, Chenko, Yeonwoo, Amane. ***Verwende keine anderen Helden an der ersten Position. Wenn keine Helden verfügbar sind, setze nur Soldaten ein; füge keine Helden hinzu.***
 - Stelle sicher, dass die Soldaten in deiner Truppe über Stufe 8 sind. Verwende keine Soldaten unter Stufe 8.
   
 ---
@@ -184,12 +193,9 @@ Dieses Dokument ist eine dreisprachige Version in Chinesisch, Englisch und Deuts
   - Infanterie-Heldin: Zoe
   - Kavallerie-Helden: Jabel, Hilde
   - Schützen-Held: Saul
+  - Wenn Sie keinen der oben genannten Helden besitzen, können Sie Howard, Gordon oder Quinn einsetzen.
 - Stelle sicher, dass deine beste Ausrüstung bei diesen drei Helden ist.
   
 ### Garnisonsteilnehmer:
-- Da dies zur ***Verteidigung*** dient, können nur die folgenden Helden als erster Held verwendet werden: Saul, Gordon, Howard. ***Verwende keine anderen Helden an der ersten Position.***
+- Da dies zur ***Verteidigung*** dient, können nur die folgenden Helden als erster Held verwendet werden: Saul, Gordon, Howard. ***Verwende keine anderen Helden an der ersten Position. Wenn keine Helden verfügbar sind, setze nur Soldaten ein; füge keine Helden hinzu.***
 - Stelle sicher, dass die Soldaten in deiner Truppe über Stufe 8 sind. Verwende keine Soldaten unter Stufe 8.
-  
-### Garrison Participants:
-- Since this is for ***defense***, only the following heroes can be used as the first hero: Saul, Gordon, Howard. ***Do not use other heroes in the first position.***
-- Ensure the soldiers in your squad are above Tier 8. Do not use soldiers below Tier 8.
