@@ -1,7 +1,7 @@
 # Swordland Showdown: 完整作战计划
 
-**版本: 最终版 v1.1**
-**日期: 2025-10-05**
+**版本: 最终版 v1.1**  
+**日期: 2025-10-05**  
 **作者：Deepwoods**
 
 ---
@@ -128,8 +128,8 @@
 
 # Swordland Showdown: Complete Battle Plan
 
-**Version: Final v1.1**
-**Date: 2025-10-05**
+**Version: Final v1.1**  
+**Date: 2025-10-05**  
 **Author: Deepwoods**
 
 ---
