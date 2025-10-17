@@ -262,3 +262,122 @@ We will assemble a super assault squad led by two Supporters to take the Swordsh
 ---
 
 
+# Swordland Showdown: Vollständiger Schlachtplan
+
+**Version: v1.1**  
+**Datum: 2025-10-05**  
+**Autor: Deepwoods**
+
+---
+
+## 〇、Allgemeine Grundsätze & Richtlinien (General Principles & Guidelines)
+
+### Zuständigkeiten (Responsibilities)
+- Wenn ihre zugewiesenen Verteidigungsgebäude nicht unter Druck stehen, können die Unterstützer (Supporter) auf dem Schlachtfeld nach Angriffsmöglichkeiten suchen oder Verteidigungslücken füllen.
+- Außer den 5 Unterstützern agieren alle anderen Mitglieder in Trupps und sollten versuchen, nicht allein zu handeln.
+- Die Hauptaufgabe jedes Trupps ist die Garnisonierung (garrison) von Gebäuden. Wenn die persönliche Truppenstärke es zulässt, können sie feindliche Städte angreifen, um den Gegner zum Teleportieren (TP) zum Startpunkt zu zwingen und so den Verteidigungsdruck zu verringern.
+- Nachdem ein Gebäude erobert wurde, müssen die ringsum verstreuten Punkte eingesammelt werden.
+- Wenn die Kellergewölbe (undercellar) erscheinen, können je nach Verteidigungslage Truppen zum Sammeln entsandt werden.
+
+### Tipps für das Schlachtfeld (Battlefield Tips)
+- Auf dem Schlachtfeld können Märsche beschleunigt werden. Klickt man in der linken Leiste auf eine marschierende Armee, stehen kostenlose Beschleunigungen zur Verfügung.
+- Nachdem die eigene Stadt angegriffen wurde, kann man mit 100 Edelsteinen (gems) das Feuer löschen. Auf diese Weise kann die Abhängigkeit von Teleports (TP) stark reduziert und gleichzeitig die eigene Verteidigungsfähigkeit verbessert werden.
+- Wie man das Schlachtfeld verlässt, um Truppen wiederherzustellen: Klickt man auf den Titel des Gefechts am oberen Bildschirmrand, erscheint ein Button zum Verlassen des Schlachtfelds. Es gibt jedoch eine 12-minütige Abklingzeit für den Wiedereintritt.
+
+---
+---
+
+## Teil 1: Schlachtplan für die Eröffnungsphase (Phase 1: Opening Moves)
+
+### 一、Strategisches Kernkonzept
+
+- Wir werden sicherstellen, dass alle Stützpunkte in unserer eigenen Hälfte absolut sicher sind, und gleichzeitig unsere stärksten Kräfte für einen entscheidenden Überraschungsangriff auf den zentralen Stützpunkt des Gegners (Heiligtum/Sanctum) konzentrieren. Gleichzeitig halten wir eine strategische Reserve bereit, um jederzeit schwache Glieder zu verstärken oder Angriffschancen zu ergreifen.
+
+
+### 二、Zuweisung der Trupp-Aufgaben
+
+#### 1. Verteidigungskern: Unser Heiligtum (Unser Sanctum)
+* **Zuständige Einheit:** **Zurn1451 + Trupp 1**
+* **Kernanweisung:** Sofort nach Beginn in die Nähe unseres Heiligtums (Sanctum) teleportieren (TP) und es garnisonieren (garrison).
+
+#### 2. Gruppe für strategische Punkte: Glockenturm & Stallungen (Bell Tower & Stables)
+* **Zuständige Einheit (Glockenturm):** **ALI + Trupp 2**
+* **Zuständige Einheit (Stallungen):** **Le Ben + Trupp 4**
+* **Kernanweisung:** Nach Beginn neben das entsprechende Gebäude teleportieren (TP) und versuchen, es einzunehmen. Nach der Einnahme in die Verteidigung übergehen. Bei Fehlschlag der Einnahme, bereithalten, um die eigene Verteidigung zu stärken oder andere einnehmbare Gebäude zu suchen.
+
+#### 3. Kernangriffsgruppe im Rücken des Feindes: Feindliches Heiligtum (Enemy Sanctum)
+* **Zuständige Einheit:** **MailoBoy + Trupp 3**
+* **Kernanweisung:** Sofort nach Beginn neben das gegnerische Heiligtum (Sanctum) teleportieren (TP) und stören. Eine Einnahme wäre ideal, danach in die Verteidigung übergehen.
+
+#### 4. Strategische Reserve (Strategic Reserve)
+* **Zuständige Einheit:** **Phycotickiller07 + Trupp 5**
+* **Kernanweisung:** Trupp 5 und Phycotickiller07 bleiben nach Beginn am Startpunkt (spawn point) in Bereitschaft. Je nach Lage auf dem Schlachtfeld die folgenden Aufgaben nach Priorität ausführen:
+    1.  **Hauptaufgabe (Verteidigung):** Schwach verteidigte eigene Gebäude verstärken, insbesondere unser Heiligtum (Sanctum).
+    2.  **Nebenaufgabe (Angriff):** Bei stabiler Lage aktiv nach Gelegenheiten suchen, um schwach verteidigte gegnerische Gebäude zu stören oder einzunehmen.
+
+#### 5. Gruppe für Basiseinnahme: Unsere Abteien (Our Abbeys)
+* **Zuständige Einheit:** **Trupp 6 & Trupp 7**
+* **Kernanweisung:** Nach Beginn teleportiert (TP) Trupp 6 zu einem Punkt zwischen der weiter entfernten Abtei (abbey) und dem Funktionsgebäude, nahe der Abtei. Nach der Einnahme hilft er bei der Verteidigung unseres Funktionsgebäudes (Glockenturm oder Stallungen). Trupp 7 teleportiert (TP) zu Beginn nicht, bleibt am Startpunkt und entsendet Truppen, um die nahegelegene Abtei einzunehmen. Nach der Einnahme entscheidet die Lage, ob verstärkt oder der Gegner gestört wird.
+
+### 三、Übersichtstabelle der Eröffnungsaufstellung
+
+| Aufgabenbereich | Zuständige Einheit | Kernanweisung |
+| :--- | :--- | :--- |
+| **Unser Sanctum** | **Zurn1451 + Trupp 1** | Absolute Verteidigung, Grundstein sichern |
+| **Unsere Abbey x2** | **Trupp 6 & Trupp 7** | Schnelle Einnahme, Basispunkte sichern |
+| **Glockenturm**| **ALI + Trupp 2** | Umkämpfen, strategischen Vorteil sichern |
+| **Stallungen** | **Le Ben + Trupp 4** | Umkämpfen, Mobilitätsvorteil sichern |
+| **Feindl. Sanctum**| **MailoBoy + Trupp 3** |  Zentrale Angriffsspitze, gezielter Stoß |
+| **Strateg. Reserve / Glob. Unterstützung**| **Phycotickiller07 + Trupp 5** |  **Bereitschaft zur Unterstützung** |
+
+---
+---
+
+## Teil 2: Schlachtplan für die Mittel- und Endphase (Phase 2: Mid-Game)
+
+### 一、Strategisches Kernkonzept
+
+Wir werden eine Super-Angriffsgruppe unter der Führung von zwei Unterstützern (Supporter) als Hauptstreitmacht aufstellen, um direkt den Schwertschrein (Swordshrine) anzugreifen; gleichzeitig wird unsere gefährlichste Kraft im Rücken des Feindes weiterhin Druck ausüben, um feindliche Truppen zu binden; die restlichen Einheiten gehen in die Verteidigung über, um die bereits errungenen Vorteile zu festigen. Wenn die Verteidigung sehr schwierig ist, können Truppen gespart und schwache feindliche Gebäude angegriffen werden, jedoch nur unter der Bedingung, dass als Trupp agiert wird.
+
+### 二、Zuweisung der Gruppenaufgaben
+
+#### 1. Zentrale Hauptangriffsgruppe (Central Main Assault Group)
+* **Zuständige Einheit:** **Zurn1451 + Phycotickiller07 + Trupp 5**
+* **Kernanweisung:**
+    1.  Bildet einen „Doppelkern“-Super-Angriffstrupp. Versammelt euch vor der Öffnung des Schwertschreins (Swordshrine) in der Mitte des Feldes.
+    2.  Zurn ist für den Garnisons-Buff (garrison buff) zuständig, Phycos Hauptaufgabe ist es, feindliche Städte anzugreifen, um sie zum Teleportieren (TP) zum Startpunkt zu zwingen.
+    3.  Ziel Schwertschrein (Swordshrine): Sobald das Gebäude sich öffnet, sofort als erste Welle einen heftigen Angriff starten, um die erste Einnahme zu sichern.
+
+#### 2. Strategische Druckgruppe (Strategic Pressure Group)
+* **Zuständige Einheit:** **MailoBoy + Trupp 3**
+* **Kernanweisung:**
+    1.  Weiterhin im Rücken des Feindes operieren und hohen Druck durch Störung und Angriff auf hochwertige Ziele wie das feindliche Heiligtum (Sanctum) oder Söldnerlager (Mercenary) aufrechterhalten.
+    2.  Die Aufgabe ist es, die feindliche Hauptstreitmacht zu binden, um unserer Hauptstreitmacht im Zentrum einen Vorteil zu verschaffen.
+
+#### 3. Absoluter Verteidigungskern (Absolute Defense Core)
+* **Zuständige Einheit:** **ALI + Trupp 1**
+* **Kernanweisung:**
+    1.  Übernimmt von Zurn die Verteidigung unseres Heiligtums (Sanctum).
+    2.  Die Aufgabe ist es, diesen Stützpunkt mit dem höchsten Punktewert im Rücken zu halten.
+
+#### 4. Gruppe für Funktionsgebäude & mobile Verteidigung (Functional Buildings & Mobile Defense)
+* **Zuständige Einheit:** **Le Ben + Trupp 4** (Gruppe Stallungen) & **Trupp 2** (Gruppe Glockenturm)
+* **Kernanweisung:**
+    1.  Die Hauptaufgabe ist die Verteidigung des **Glockenturms** und der **Stallungen**.
+    2.  In einer extrem ungünstigen Situation, in der Truppen zur Verteidigung des Kernbereichs (unser Heiligtum/Sanctum) konzentriert werden müssen, können diese beiden Funktionsgebäude als **erste aufgegeben** werden. Das Personal zieht sich zur Unterstützung der Verteidigung des Heiligtums zurück.
+
+#### 5. Unterstützungsgruppe im Rücken (Rear Support)
+* **Zuständige Einheit:** **Trupp 6 & Trupp 7**
+* **Kernanweisung:**
+    1.  Die Positionen halten und die beiden Abteien (Abbeys) verteidigen, um dem Team einen stabilen Fluss an Basispunkten zu sichern.
+    2.  Da die Abteien kontinuierlich Punkte generieren, sollten sie, **solange die Verteidigungslinie nicht vollständig zusammenbricht, mit allen Mitteln gehalten werden**.
+
+### 三、Übersichtstabelle der Aufstellung in der Mittelphase
+
+| Aufgaben-Gruppe | Zuständige Einheit | Kernziel | Taktische Anweisung |
+| :--- | :--- | :--- | :--- |
+| **Zentraler Hauptangriff**| **Zurn + Phyco + Trupp 5**| **Schwertschrein**| Doppelkern-Antrieb, Sturmangriff und Halten |
+| **Strategischer Druck**| **MailoBoy + Trupp 3**| **Feindl. hochwertige Gebäude**| Druck im Rücken des Feindes, Hauptstreitmacht binden |
+| **Absolute Verteidigung**| **ALI + Trupp 1**| **Unser Sanctum**| Verteidigung übernehmen, den Rücken sichern |
+| **Mobile Verteidigung**| **Le Ben + Trupp 4, Trupp 2**| **Glockenturm & Stallungen**| Funktionsgebäude bewachen, **Rückzug vorbereiten** |
+| **Unterstützung im Rücken**| **Trupp 6 & Trupp 7**| **Abteien**| **Punktegebäude halten**, als letzte Verteidigungslinie |
