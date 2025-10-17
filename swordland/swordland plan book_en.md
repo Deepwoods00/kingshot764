@@ -2,6 +2,7 @@
 
 **Version: Final v1.1**
 **Date: 2025-10-05**
+**Author: Deepwoods**
 
 ---
 
