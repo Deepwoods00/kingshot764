@@ -1,6 +1,7 @@
-该文档为中文、英语、德语一式三份合一。  
-This document is in Chinese, English, and German, all in one copy.  
-Dieses Dokument liegt in dreifacher Ausfertigung in chinesischer, englischer und deutscher Sprache vor.
+该文档为中文、英语、德语、法语一式四份合一。  
+This document combines four language versions into one: Chinese, English, German, and French.  
+Dieses Dokument vereint vier Sprachversionen in einem: Chinesisch, Englisch, Deutsch und Französisch.  
+Ce document combine quatre versions linguistiques en une seule : chinois, anglais, allemand et français.
 
 ---
 ---
@@ -381,3 +382,131 @@ Wir werden eine Super-Angriffsgruppe unter der Führung von zwei Unterstützern 
 | **Absolute Verteidigung**| **ALI + Trupp 1**| **Unser Sanctum**| Verteidigung übernehmen, den Rücken sichern |
 | **Mobile Verteidigung**| **Le Ben + Trupp 4, Trupp 2**| **Glockenturm & Königliche Ställe**| Funktionsgebäude bewachen, **Rückzug vorbereiten** |
 | **Unterstützung im Rücken**| **Trupp 6 & Trupp 7**| **Abteien**| **Punktegebäude halten**, als letzte Verteidigungslinie |
+
+
+---
+---
+---
+---
+---
+
+
+# Swordland Showdown : Plan de bataille complet
+
+**Version : v1.1**  
+**Date : 2025-10-05**  
+**Auteur : Deepwoods**
+
+---
+
+## 〇、Principes généraux et directives (General Principles & Guidelines)
+
+### Responsabilités (Responsibilities)
+- Lorsque leurs structures défensives assignées ne sont pas sous pression, les Soutiens (Supporters) peuvent chercher des opportunités offensives sur le champ de bataille ou combler les failles défensives.
+- À l'exception des 5 Soutiens, tous les autres membres doivent opérer en tant qu'escouade ; évitez autant que possible de vous déplacer seul.
+- La tâche principale de chaque escouade est de mettre en garnison (garrison) les structures. Si la force des troupes personnelles le permet, ils peuvent attaquer les villes ennemies pour forcer les adversaires à se téléporter (TP) à leur point d'apparition, réduisant ainsi la pression défensive.
+- Après la capture d'une structure, il est nécessaire de collecter les points dispersés autour.
+- Lorsque les caves (undercellar) apparaissent, des troupes peuvent y être envoyées pour collecter en fonction de la pression défensive.
+
+### Astuces du champ de bataille (Battlefield Tips)
+- Les marches sur le champ de bataille peuvent être accélérées. En cliquant sur une armée en marche dans le panneau de gauche, une option d'accélération gratuite sera disponible.
+- Après que votre propre ville a été attaquée, vous pouvez utiliser 100 gemmes (gems) pour éteindre l'incendie. Cette méthode peut considérablement réduire la dépendance aux téléportations (TP) et renforcer la durabilité de votre défense.
+- Comment quitter le champ de bataille pour récupérer des troupes : Cliquez sur le titre de l'événement en haut de l'écran, où se trouvera un bouton de sortie. Cependant, il y a un temps de recharge de 12 minutes avant de pouvoir y retourner.
+
+---
+---
+
+## Partie 1 : Plan de bataille de la phase d'ouverture (Phase 1: Opening Moves)
+
+### I. Concept stratégique de base
+
+- Notre stratégie consiste à sécuriser sans faute tous les objectifs de notre côté de la carte, tout en concentrant nos forces d'élite pour une frappe décisive sur l'objectif principal de l'ennemi (son Sanctuaire/Sanctum). En même temps, nous maintiendrons une force de réserve stratégique, prête à renforcer tout point faible ou à saisir les opportunités offensives.
+
+
+### II. Assignation des rôles des escouades
+
+#### 1. Noyau de défense : Notre Sanctuaire (Our Sanctum)
+* **Unité assignée :** **Zurn1451 + Escouade 1**
+* **Directive principale :** Au début, se téléporter (TP) directement près de notre Sanctuaire (Sanctum) et y mettre ses troupes en garnison (garrison).
+
+#### 2. Groupe des points stratégiques : Clocher & Écuries (Bell Tower & Stables)
+* **Unité assignée (Clocher) :** **ALI + Escouade 2**
+* **Unité assignée (Écuries) :** **Le Ben + Escouade 4**
+* **Directive principale :** Au début, se téléporter (TP) à côté de votre objectif assigné et tenter de le capturer. Après la capture, passer à une posture défensive. Si la capture échoue, préparez-vous à renforcer la défense de notre côté ou à trouver d'autres objectifs capturables.
+
+#### 3. Groupe de frappe principal : Sanctuaire ennemi (Enemy Sanctum)
+* **Unité assignée :** **MailoBoy + Escouade 3**
+* **Directive principale :** Au début, se téléporter (TP) directement à côté du Sanctuaire (Sanctum) ennemi et mener des actions de harcèlement. Le capturer est idéal ; si capturé, passer à une posture défensive.
+
+#### 4. Réserve stratégique (Strategic Reserve)
+* **Unité assignée :** **Phycotickiller07 + Escouade 5**
+* **Directive principale :** L'escouade 5 et Phycotickiller resteront au point d'apparition (spawn point) en attente au début du match. En fonction de la situation sur le champ de bataille, exécutez les tâches suivantes par ordre de priorité :
+    1.  **Mission principale (Défense) :** Renforcer toutes les structures amies faiblement défendues, en particulier notre Sanctuaire (Sanctum).
+    2.  **Mission secondaire (Offensive) :** Lorsque la situation est stable, chercher de manière proactive des opportunités de harceler ou de capturer les structures ennemies faiblement défendues.
+
+#### 5. Groupe de capture de base : Nos Abbayes (Our Abbeys)
+* **Unité assignée :** **Escouade 6 & Escouade 7**
+* **Directive principale :** Au début, l'escouade 6 se téléportera (TP) à un point médian entre l'Abbaye (abbey) éloignée et le bâtiment fonctionnel, en se positionnant plus près de l'Abbaye. Après l'avoir capturée, elle aidera à la défense de notre bâtiment fonctionnel voisin (Clocher ou Écuries). L'escouade 7 ne se téléportera pas au début. Elle restera au point d'apparition et enverra des troupes pour capturer l'Abbaye voisine. Après la capture, décider s'il faut renforcer un allié ou harceler l'ennemi en fonction de la situation.
+
+### III. Tableau récapitulatif du déploiement d'ouverture
+
+| Zone d'objectif | Unités assignées | Directive principale |
+| :--- | :--- | :--- |
+| **Notre Sanctum** | **Zurn1451 + Escouade 1** | Défense absolue, Ancre défensive |
+| **Nos Abbayes x2**| **Escouade 6 & Escouade 7** | Capture rapide, Sécuriser les points de base |
+| **Clocher**| **ALI + Escouade 2** | Contester & Sécuriser, Fournit un bonus stratégique |
+| **Écuries** | **Le Ben + Escouade 4** | Contester & Sécuriser, Fournit un bonus de mobilité |
+| **Sanctum ennemi**| **MailoBoy + Escouade 3** | Fer de lance offensif, Frappe ciblée |
+| **Réserve strat. / Soutien global**| **Phycotickiller07 + Escouade 5** |  **En attente pour soutenir** |
+
+---
+---
+
+## Partie 2 : Plan de bataille de milieu et fin de partie (Phase 2: Mid- & Late-Game)
+
+### I. Concept stratégique de base
+
+Nous rassemblerons une super escouade d'assaut dirigée par deux Soutiens (Supporters) pour prendre le Sanctuaire de l'épée (Swordshrine) comme objectif principal. Simultanément, notre force la plus menaçante derrière les lignes ennemies continuera d'appliquer une pression pour immobiliser les troupes ennemies. Les unités restantes passeront en défense pour consolider nos avantages. Si la défense est sous grande pression, nous pouvons préserver nos troupes et attaquer les structures ennemies faibles, à condition d'opérer en escouades.
+
+### II. Assignation des rôles des escouades
+
+#### 1. Groupe d'assaut principal central (Central Main Assault Group)
+* **Unité assignée :** **Zurn1451 + Phycotickiller07 + Escouade 5**
+* **Directive principale :**
+    1.  Former une super escouade d'assaut à « double noyau ». Se rassembler au milieu du terrain avant l'ouverture du Sanctuaire de l'épée (Swordshrine).
+    2.  Zurn est responsable de fournir le bonus de garnison (garrison buff), tandis que la tâche principale de Phyco est d'attaquer les villes ennemies pour les forcer à se téléporter (TP) à leur point d'apparition.
+    3.  Objectif Sanctuaire de l'épée (Swordshrine) : Dès que la structure s'ouvre, lancer la première vague d'attaque pour sécuriser le bonus de première capture.
+
+#### 2. Groupe de pression stratégique (Strategic Pressure Group)
+* **Unité assignée :** **MailoBoy + Escouade 3**
+* **Directive principale :**
+    1.  Continuer à opérer derrière les lignes ennemies, en maintenant un harcèlement et une pression offensive de haute intensité sur des cibles de grande valeur comme le Sanctuaire (Sanctum) ennemi ou les bâtiments de Mercenaires (Mercenary).
+    2.  Votre mission est d'immobiliser la force principale de l'ennemi pour créer un avantage pour nos forces sur le champ de bataille central.
+
+#### 3. Noyau de défense absolue (Absolute Defense Core)
+* **Unité assignée :** **ALI + Escouade 1**
+* **Directive principale :**
+    1.  Prendre le relais de Zurn pour défendre notre Sanctuaire (Sanctum).
+    2.  Votre mission est de tenir cet objectif arrière de la plus haute valeur.
+
+#### 4. Groupe des bâtiments fonctionnels & défense mobile (Functional Buildings & Mobile Defense)
+* **Unité assignée :** **Le Ben + Escouade 4** (Groupe Écuries) & **Escouade 2** (Groupe Clocher)
+* **Directive principale :**
+    1.  La mission principale est de défendre le **Clocher** et les **Écuries**.
+    2.  Dans une situation désastreuse où les forces doivent être concentrées pour défendre la zone centrale (notre Sanctuaire/Sanctum), ces deux bâtiments fonctionnels peuvent être les **premiers objectifs à être abandonnés**, le personnel se repliant pour aider à la défense.
+
+#### 5. Groupe de soutien arrière (Rear Support)
+* **Unité assignée :** **Escouade 6 & Escouade 7**
+* **Directive principale :**
+    1.  Maintenir vos positions et défendre les deux Abbayes (Abbeys) pour fournir un flux régulier de points de base pour l'équipe.
+    2.  Comme les Abbayes sont des générateurs de points constants, elles doivent être tenues à tout prix, sauf si toute la ligne de défense s'effondre.
+
+### III. Tableau de déploiement de milieu et fin de partie
+
+| Groupe de tâche | Unités assignées | Objectif principal | Directive tactique |
+| :--- | :--- | :--- | :--- |
+| **Assaut principal central**| **Zurn + Phyco + Escouade 5** | **Sanctuaire de l'épée** | Double noyau, Assaut et Maintien |
+| **Pression stratégique**| **MailoBoy + Escouade 3** | **Objectifs ennemis de valeur** | Appliquer une pression derrière les lignes ennemies, immobiliser les forces principales |
+| **Défense absolue**| **ALI + Escouade 1** | **Notre Sanctum** | Prendre en charge la défense, sécuriser l'arrière |
+| **Défense mobile**| **Le Ben + Escouade 4, Escouade 2** | **Clocher & Écuries** | Garder les bâtiments fonctionnels, **se préparer à resserrer la ligne** |
+| **Soutien arrière**| **Escouade 6 & Escouade 7** | **Abbayes** | **Tenir les objectifs à points**, agir comme dernière ligne de défense |
