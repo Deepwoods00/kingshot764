@@ -1,3 +1,11 @@
+该文档为中文、英语、德语一式三份合一。  
+This document is in Chinese, English, and German, all in one copy.  
+Dieses Dokument liegt in dreifacher Ausfertigung in chinesischer, englischer und deutscher Sprache vor.
+
+---
+---
+---
+
 # Swordland Showdown: 完整作战计划
 
 **版本: v1.1**  
